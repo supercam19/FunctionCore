@@ -1,5 +1,5 @@
 {
 	"values": [
-		"functioncore:tick"
+		"core:zcore/tick"
 	]
 }

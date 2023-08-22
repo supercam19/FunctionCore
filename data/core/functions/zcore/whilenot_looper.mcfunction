@@ -1,2 +1,2 @@
 $$(command)
-$execute unless $(condition) run function functioncore:whilenot_looper {command:"$(command)",condition:"$(condition)"}
+$execute unless $(condition) run function core:zcore/whilenot_looper {command:"$(command)",condition:"$(condition)"}
