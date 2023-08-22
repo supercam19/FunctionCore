@@ -1,0 +1,1 @@
+$execute unless $(condition) run function core:zcore/whilenot_looper {condition:"$(condition)",command:"$(command)"}

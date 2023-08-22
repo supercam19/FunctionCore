@@ -1,0 +1,1 @@
+$execute if $(condition) run function core:zcore/while_looper {condition:"$(condition)",command:"$(command)"}
