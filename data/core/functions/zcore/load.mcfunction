@@ -1,1 +1,1 @@
-scoreboard objectives add itterations dummy
+scoreboard objectives add iterations dummy
